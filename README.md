@@ -1,6 +1,8 @@
 # Hi, I'm Aravind Kannappan 👋
 
-I'm an early career ML engineer with a background in statistics and sports analytics. I'm interested in building scalable systems that solve real problems, particularly at the intersection of machine learning and production infrastructure. I care deeply about shipping robust, reliable systems and enjoy working on tools that make cutting-edge ML accessible and impactful.
+I’m a Statistics master’s student at NYU with a background in sports analytics and machine learning. I’m interested in building production ML systems in domains like sports and healthcare, where decisions are time-sensitive and data is messy, high-dimensional, and constantly shifting.
+
+I’m especially drawn to work that makes complex models reliable in real-world environments — whether that’s powering live analytics or supporting clinical decision systems — and I care about building infrastructure that teams can trust and iterate on safely.
 
 ## 🎓 Education
 * **M.S. in Applied Statistics** (ML Specialization), NYU (2024–2026)
