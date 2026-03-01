@@ -1,6 +1,6 @@
 # Hi, I'm Aravind Kannappan 👋
 
-I’m a Statistics master’s student at NYU with a background in sports analytics and machine learning. I’m interested in building production ML systems in domains like sports and healthcare, where decisions are time-sensitive and data is messy, high-dimensional, and constantly shifting.
+I’m a Statistics master’s student at NYU with a background in sports analytics and machine learning. I’m interested in building production ML systems in domains like sports, healthcare & AI Safety where decisions are time-sensitive and data is messy, high-dimensional, and constantly shifting.
 
 I’m especially drawn to work that makes complex models reliable in real-world environments — whether that’s powering live analytics or supporting clinical decision systems — and I care about building infrastructure that teams can trust and iterate on safely.
 
