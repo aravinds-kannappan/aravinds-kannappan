@@ -9,28 +9,32 @@ I’m especially drawn to work that makes complex models reliable in real-world 
 * **B.S. in Statistics** (Sports Analytics), Baylor University (2020–2024)
 
 ## 🔍 Interests
-* LLM serving & inference optimization
+* LLM serving, inference & evaluation
+* AI safety, interpretability & model reliability
 * MLOps & production ML systems
 * PyTorch, distributed training, model optimization
 * Causal inference & experimental design
 * Biostatistics & healthcare ML
 
 ## 🚀 Startups
-* **[Replays AI](https://replays-ai.vercel.app/)** – LLM pipelines for automated sports video summaries. Architected high-throughput inference serving with 60% p99 latency reduction via quantization & KV-cache optimization. Deployed scalable vector retrieval system indexing 5M+ play events.
-* **[Synthure](https://synthure.vercel.app/)** – Multi-agent LLM system on clinical EHR data for personalized patient education. Reduced hallucination from 81% to 13% via RLHF. Validated 81% patient comprehension vs 13% baseline across 200+ pilot patients.
+* **[Replays AI](https://replays-ai.vercel.app/)** – Personalized sports fan platform that turns live ESPN play-by-play into AI-generated recaps, predictions, and fan experiences. Built a four-agent pipeline (event extraction, Claude Vision play classification, parallel LLM summarization, and team-perspective recaps) running concurrently for sub-second responses, plus a gamification layer of predictions, rosters, and leaderboards. React/TypeScript + FastAPI, deployed on Vercel with no database (data derived live from public ESPN endpoints).
+* **[Synthure](https://synthure.vercel.app/)** – Multi-agent clinical AI platform: a single clinical note enters once and specialized agents handle prior authorizations, claims routing, denial prediction, patient education, and appeals across patient, physician, hospital, and employer portals. RAG over 1.43M ICD-10 codes (MRR@5 0.91), a gradient-boosting denial predictor (AUC 0.87), and citation-validated generation behind a three-tier autonomy model. NER accuracy 94.2%, insurance-plan match 91.3%, p95 latency 1.8s, zero fabricated clinical facts.
 
 ## 🛠️ Projects
-* **Computer Vision (CSCI 2271)** – Diffusion world model trained on 737K+ video frames; VAE + PPO agents for gameplay
-* **NFL Veteran Transition Predictor** – Production web app with temporal feature engineering, stacked ensembles, FastAPI deployment
-* **Rare Disaster Asset Pricing** – Extended Mehra–Prescott framework with Markov models; calibrated on 90+ years of market data
-* **TrafficFlowOpt** – City-scale traffic simulator in CUDA (25X speedup); PyTorch signal optimizer reducing network delay 23%
+* **[Popper](https://github.com/aravinds-kannappan/Popper)** – Open-source tool that hunts for counterexamples to mathematical and logical specifications *before* they’re formally proven; Monte-Carlo math engine plus live Lean/AXLE spec checks. Catches 99% of unfaithful specs with zero false alarms and always returns a concrete counterexample.
+* **[MOSAIC](https://github.com/aravinds-kannappan/MOSAIC)** – Bayesian multi-stream outbreak early warning that fuses wastewater, genomic, and outbreak-text data into a calibrated `P(Rt > 1)` (ECE 0.086, AUROC 0.917 on the CDC record, ~68-day median lead).
+* **[RallyScope](https://github.com/aravinds-kannappan/Rally-Scope)** – Tennis ML & in-browser computer vision over 36K+ ATP/WTA matches: a from-scratch PCA playstyle map, an exactly-explainable win-probability model, and a canvas ball tracker — trained at build time, inferred client-side.
+* **[Context Forge](https://github.com/aravinds-kannappan/Context-Forge)** – Reproducible benchmark of prompt/context compression (tokens saved vs. quality retained vs. latency) across the GPT-4o, GPT-4, and GPT-2 tokenizers, plus a learned per-token droppability classifier (ROC-AUC 0.964).
+* **[PodBench](https://github.com/aravinds-kannappan/PodBench)** – Deterministic, resettable task environments for LLM agents with a programmatic verifier, per-run token/cost metering, and Kubernetes (KEDA) autoscaling — pod health and model behavior on one pane.
+* **[VeriGrad RL](https://github.com/aravinds-kannappan/VeriGrad-RL)** – Mechanistic-interpretability lab for safety RL: a policy chooses activation-level interventions on a transparent residual-stream circuit, scored for safety, utility retention, and mechanistic faithfulness.
+* **TrafficFlowOpt** – City-scale traffic simulator in CUDA (25X speedup); PyTorch signal optimizer reducing network delay 23%.
 
 ## 💻 Tech Stack
-**Languages:** Python • R • SQL • C++ • CUDA • Next.js
+**Languages:** Python • R • SQL • C++ • CUDA • TypeScript / Next.js
 
 **ML & Data:** PyTorch • TensorFlow • Scikit-learn • XGBoost • Hugging Face • Pandas • NumPy
 
-**Cloud Infrastructure:** AWS • GCP • Databricks • Snowflake • Apache Airflow
+**Cloud & Infra:** AWS • GCP • Vercel • Supabase • Kubernetes • Snowflake • Apache Airflow
 
 ## 📚 Related Activities
 * Technical writer on ML optimization & probabilistic modeling at NYU
