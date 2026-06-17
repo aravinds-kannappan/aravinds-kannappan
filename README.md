@@ -2,7 +2,7 @@
 
 I’m a Statistics master’s student at NYU with a background in sports analytics and machine learning. I’m interested in building production ML systems in domains like sports, healthcare & AI Safety where decisions are time-sensitive and data is messy, high-dimensional, and constantly shifting.
 
-I’m especially drawn to work that makes complex models reliable in real-world environments — whether that’s powering live analytics or supporting clinical decision systems — and I care about building infrastructure that teams can trust and iterate on safely.
+I’m especially drawn to work that makes complex models reliable in real-world environments, whether that’s powering live analytics or supporting clinical decision systems, and I care about building infrastructure that teams can trust and iterate on safely.
 
 ## 🎓 Education
 * **M.S. in Applied Statistics** (ML Specialization), NYU (2024–2026)
@@ -23,9 +23,9 @@ I’m especially drawn to work that makes complex models reliable in real-world 
 ## 🛠️ Projects
 * **[Popper](https://github.com/aravinds-kannappan/Popper)** – Open-source tool that hunts for counterexamples to mathematical and logical specifications *before* they’re formally proven; Monte-Carlo math engine plus live Lean/AXLE spec checks. Catches 99% of unfaithful specs with zero false alarms and always returns a concrete counterexample.
 * **[MOSAIC](https://github.com/aravinds-kannappan/MOSAIC)** – Bayesian multi-stream outbreak early warning that fuses wastewater, genomic, and outbreak-text data into a calibrated `P(Rt > 1)` (ECE 0.086, AUROC 0.917 on the CDC record, ~68-day median lead).
-* **[RallyScope](https://github.com/aravinds-kannappan/Rally-Scope)** – Tennis ML & in-browser computer vision over 36K+ ATP/WTA matches: a from-scratch PCA playstyle map, an exactly-explainable win-probability model, and a canvas ball tracker — trained at build time, inferred client-side.
+* **[RallyScope](https://github.com/aravinds-kannappan/Rally-Scope)** – Tennis ML & in-browser computer vision over 36K+ ATP/WTA matches: a from-scratch PCA playstyle map, an exactly-explainable win-probability model, and a canvas ball tracker, trained at build time and inferred client-side.
 * **[Context Forge](https://github.com/aravinds-kannappan/Context-Forge)** – Reproducible benchmark of prompt/context compression (tokens saved vs. quality retained vs. latency) across the GPT-4o, GPT-4, and GPT-2 tokenizers, plus a learned per-token droppability classifier (ROC-AUC 0.964).
-* **[PodBench](https://github.com/aravinds-kannappan/PodBench)** – Deterministic, resettable task environments for LLM agents with a programmatic verifier, per-run token/cost metering, and Kubernetes (KEDA) autoscaling — pod health and model behavior on one pane.
+* **[PodBench](https://github.com/aravinds-kannappan/PodBench)** – Deterministic, resettable task environments for LLM agents with a programmatic verifier, per-run token/cost metering, and Kubernetes (KEDA) autoscaling: pod health and model behavior on one pane.
 * **[VeriGrad RL](https://github.com/aravinds-kannappan/VeriGrad-RL)** – Mechanistic-interpretability lab for safety RL: a policy chooses activation-level interventions on a transparent residual-stream circuit, scored for safety, utility retention, and mechanistic faithfulness.
 * **TrafficFlowOpt** – City-scale traffic simulator in CUDA (25X speedup); PyTorch signal optimizer reducing network delay 23%.
 
