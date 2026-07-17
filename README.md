@@ -11,12 +11,11 @@
 
 <a href="https://linkedin.com/in/aravind-kannappan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/aravinds-kannappan"><img src="https://img.shields.io/github/followers/aravinds-kannappan?label=Follow&style=flat-square&color=a78bfa&labelColor=0d1117&logo=github" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=aravinds-kannappan&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile views" />
 
 </div>
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About
+## 👋 About
 
 I build production ML systems for domains where decisions are time-sensitive and the data is messy, high-dimensional, and constantly shifting: **sports, healthcare, and AI safety.** I care most about the unglamorous part, making complex models *reliable* in the real world, and about infrastructure that teams can trust and iterate on safely.
 
@@ -26,7 +25,7 @@ I build production ML systems for domains where decisions are time-sensitive and
 - ⚡ Off-screen: chess, and far too much NFL / NBA analytics
 
 <!-- ══════════════════ TECH STACK ══════════════════ -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -60,15 +59,15 @@ I build production ML systems for domains where decisions are time-sensitive and
 
 </div>
 
-<!-- ══════════════════ CONTRIBUTION SNAKE ══════════════════ -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Watch the snake eat my contributions
+<!-- ══════════════════ PAC-MAN CONTRIBUTIONS ══════════════════ -->
+## 👾 Watch Pac-Man eat my contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aravinds-kannappan/aravinds-kannappan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aravinds-kannappan/aravinds-kannappan/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aravinds-kannappan/aravinds-kannappan/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aravinds-kannappan/aravinds-kannappan/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aravinds-kannappan/aravinds-kannappan/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/aravinds-kannappan/aravinds-kannappan/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 </div>
@@ -81,7 +80,7 @@ I build production ML systems for domains where decisions are time-sensitive and
 </div>
 
 <!-- ══════════════════ STATS ══════════════════ -->
-## <img src="https://media.giphy.com/media/dxtQfmuGfsUKWtCbHF/giphy.gif" width="28"> Commit streak
+## 🔥 Commit streak
 
 <div align="center">
 
@@ -90,14 +89,14 @@ I build production ML systems for domains where decisions are time-sensitive and
 </div>
 
 <!-- ══════════════════ STARTUPS ══════════════════ -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Startups
+## 🚀 Startups
 
 **[Replays AI](https://replays-ai.vercel.app/)** : Personalized sports fan platform that turns live ESPN play-by-play into AI-generated recaps, predictions, and fan experiences. A four-agent pipeline (event extraction, Claude Vision play classification, parallel LLM summarization, and team-perspective recaps) runs concurrently for sub-second responses, plus a gamification layer of predictions, rosters, and leaderboards. React/TypeScript + FastAPI on Vercel, no database (data derived live from public ESPN endpoints).
 
 **[Synthure](https://synthure.vercel.app/)** : Multi-agent clinical AI platform. One clinical note enters once and specialized agents handle prior authorizations, claims routing, denial prediction, patient education, and appeals across patient, physician, hospital, and employer portals. RAG over 1.43M ICD-10 codes (MRR@5 0.91), a gradient-boosting denial predictor (AUC 0.87), and citation-validated generation behind a three-tier autonomy model. NER accuracy 94.2%, insurance-plan match 91.3%, p95 latency 1.8s, zero fabricated clinical facts.
 
 <!-- ══════════════════ PROJECTS ══════════════════ -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Projects
+## 🧪 Projects
 
 | Project | What it does |
 | :--- | :--- |
@@ -116,6 +115,6 @@ I build production ML systems for domains where decisions are time-sensitive and
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
 
-<sub>Thanks for scrolling. The snake refreshes twice a day. 🐍</sub>
+<sub>Thanks for scrolling. Pac-Man refreshes daily. 👾</sub>
 
 </div>
